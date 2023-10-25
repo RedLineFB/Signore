@@ -1,2 +1,2 @@
 # signore
-Segundo trabajo como desarrollador Front-end freelance.
+URL: https://signore.netlify.app/
